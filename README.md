@@ -1,24 +1,10 @@
-# Welcome to Remix + Vite!
+# Demo app!
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+Main purpose of this project is to make a demo app with remix + vite, and trying out react 19 before its release
 
 ## Development
 
-Run the Vite dev server:
-
-```shellscript
-npm run dev
-```
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
+Run the Vite dev server and app:
 
 ```sh
 npm start
